@@ -23,7 +23,7 @@
 - 🔧 &nbsp;Currently building **[GuardFlow](https://guard-flow-v1.vercel.app)** and **[PingSight](https://pingsight.vercel.app)**
 - 📦 &nbsp;Published on **PyPI**
 - 🏆 &nbsp;3rd place — Cursor Hackathon, out of **24 teams**
-- 🎓 &nbsp;Software Engineering @ **Haramaya University**
+- 🎓 &nbsp;Software Engineering 
 - 💡 &nbsp;Obsessed with developer experience and clean architecture
 
 <br clear="right"/>
